@@ -58,7 +58,7 @@ Na tela de Grupos consegue visualizar a lista de chats criados no app, o user po
   <br/>
   <div>
     <div>
-      <strong>Tela grupos com um chat pressionado por um periodo de tempo</strong>
+      <strong>Tela grupos com um chat pressionado por um certo periodo</strong>
     </div>
     <img src="https://user-images.githubusercontent.com/98930710/224126290-41eb771d-7e16-454d-956b-dd25ed6482cb.png" width="400px" alt="deletando um grupo existente"/>
     <div>
